@@ -1,4 +1,6 @@
 Crack-Propagation
 =================
 
-crack propagation
+基于ABAQUS软件平台，利用PYTHON语言编写了模拟裂纹自动
+扩展的程序模块，实现了模拟裂纹自动扩展过程中有限元网
+格的自动重划分功能.
